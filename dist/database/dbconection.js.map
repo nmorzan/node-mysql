@@ -1,0 +1,1 @@
+{"version":3,"file":"dbconection.js","sourceRoot":"","sources":["../../database/dbconection.ts"],"names":[],"mappings":";;AAAA,yCAAsC;AACtC,MAAM,EAAE,GAAG,IAAI,qBAAS,CAAC,QAAQ,EAAC,MAAM,EAAC,OAAO,EAAC;IAC/C,IAAI,EAAC,WAAW;IAChB,OAAO,EAAC,OAAO;IACf,gHAAgH;CACjH,CAAC,CAAC;AAEH,kBAAe,EAAE,CAAC"}
